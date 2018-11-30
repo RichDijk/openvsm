@@ -7,6 +7,7 @@ The application can be installed and executed as follows:
 3. Run web2py
 4. Install then openvsm app by importing and using the openvsm.w2p file
 5. Execute the openvsm app
+6. Login using the user demoadmin@im.com with password admin
 
 The opening screen of OpenVSM looks like the following
 

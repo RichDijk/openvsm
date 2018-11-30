@@ -8,3 +8,6 @@ The application can be installed and executed as follows:
 4. Install then openvsm app by importing and using the openvsm.w2p file
 5. Execute the openvsm app
 
+The opening screen of OpenVSM looks like the following
+
+![Screenshot](.png)

@@ -5,7 +5,7 @@ The application can be installed and executed as follows:
 1. Install web2py for Windows or Mac users http://web2py.com/init/default/download
 2. Download the openvsm.w2p file
 3. Run web2py
-4. Install then openvsm app by importing and using the openvsm.w2p file
+4. Install then openvsm app by importing and using the web2py.app.openvsm.w2p file
 5. Execute the openvsm app
 6. Login using the user demoadmin@im.com with password admin
 

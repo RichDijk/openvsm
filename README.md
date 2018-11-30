@@ -10,4 +10,4 @@ The application can be installed and executed as follows:
 
 The opening screen of OpenVSM looks like the following
 
-![Screenshot](openVSMscreen.png)
+![Screenshot](openVSMscreen.PNG)
